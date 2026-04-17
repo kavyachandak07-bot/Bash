@@ -5,4 +5,4 @@
 900; https://codeforces.com/problemset/problem/2169/A
 
 1000; https://codeforces.com/problemset/problem/2199/A
-1000; https://codeforces.com/problemset/problem/2188/B
+1000; https://codeforces.com/problemset/problem/2188/Bverified test
